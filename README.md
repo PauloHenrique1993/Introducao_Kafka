@@ -4,3 +4,6 @@
 
 Criar conta e instacia no CloudKarafka
 https://customer.cloudkarafka.com/
+
+
+Aula pratica da Digital Innovation One
